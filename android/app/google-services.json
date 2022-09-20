@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "276853219035",
+    "firebase_url": "https://rizwan-trader-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rizwan-trader",
+    "storage_bucket": "rizwan-trader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276853219035:android:1ee82183f4c0262023b6fe",
+        "android_client_info": {
+          "package_name": "com.xofthox.rizwan_trader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276853219035-bh04oav95ar895sr11q6pg2f6eom9et9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xofthox.rizwan_trader",
+            "certificate_hash": "92c1f13dfd648f362b1d49232912c725de1ef211"
+          }
+        },
+        {
+          "client_id": "276853219035-a38vjhg1mm3ulg79s5rsulnim4kkqk1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5mBhzBNjnsHaIkQnqVdyliSVQZLep1qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276853219035-a38vjhg1mm3ulg79s5rsulnim4kkqk1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276853219035-ohnoq4qk4v0d47etfb0qc57lmqkflaj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rizwanTrader"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
